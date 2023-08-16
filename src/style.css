@@ -16,6 +16,11 @@
   height:350px;
   box-shadow: -30px 10px 100px 10px #FB184E, 10px -30px 100px 10px blue;
 }
+
+h1{
+  color: #1823fb;
+  font-weight: 400;
+}
 .input{
   display: flex;
   flex-direction: column ;
@@ -47,13 +52,23 @@ input::placeholder{
 .error{
   color:red;
   margin-top: 10px;
+  background-color: black;
 }
 .success{
   color:rgb(0, 255, 234);
   font-weight: bold;
   margin-top: 10px;
+  background-color: black;
 }
 .result{
   font-weight: bold;
   margin-top: 10px;
+  background-color: white;
+}
+
+body {
+  background-image: url('./aryabhatta.webp');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  /* Other styles */
 }
