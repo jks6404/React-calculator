@@ -2,6 +2,13 @@
 ![image](https://github.com/jks6404/React-calculator/assets/119485859/4b0a54f8-8d7f-4d87-a9fd-dcfa5c023a01)
 
 Simplify your math tasks and streamline your calculations with our sleek and intuitive React Calculator App. Whether you're solving complex equations or simply crunching numbers, our app offers a seamless and user-friendly experience.
+Featuring a clean and modern interface, our React Calculator App provides all the essential functions you need for everyday calculations, right at your fingertips. From addition and subtraction to multiplication and division, our app has got you covered.
+
+With its lightning-fast performance and responsive design, our React Calculator App ensures effortless computation on any device, anytime, anywhere. Say goodbye to manual calculations and hello to efficiency with our innovative calculator solution!
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
