@@ -1,7 +1,7 @@
 # visit to react calculator :-https://react-calculator-ruddy-five.vercel.app/
 ![image](https://github.com/jks6404/React-calculator/assets/119485859/4b0a54f8-8d7f-4d87-a9fd-dcfa5c023a01)
 
-
+Simplify your math tasks and streamline your calculations with our sleek and intuitive React Calculator App. Whether you're solving complex equations or simply crunching numbers, our app offers a seamless and user-friendly experience.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
